@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439856392042",
+    "firebase_url": "https://alarmainundaciones-default-rtdb.firebaseio.com",
+    "project_id": "alarmainundaciones",
+    "storage_bucket": "alarmainundaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439856392042:android:571f32e249274aa3c2e713",
+        "android_client_info": {
+          "package_name": "com.example.alerta_de_inundaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439856392042-hd1o524mo51clshjggfa1la3u96m70fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alerta_de_inundaciones",
+            "certificate_hash": "6cabde46386a8cfb5772a2044595b5957a1b7e8d"
+          }
+        },
+        {
+          "client_id": "439856392042-on2bgheu0qbmglas58bdq1r69gmcee6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5voPLrT-KnFXTJ2yi6VpHLCi7dSPOs7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439856392042-on2bgheu0qbmglas58bdq1r69gmcee6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
